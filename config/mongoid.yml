@@ -1,0 +1,51 @@
+development:
+  sessions:
+    default:
+      database: people_development
+      hosts:
+        - localhost:27017
+      options:
+        consistency: :strong
+    devices:
+      database: devices_development
+      hosts:
+        - localhost:27017
+      options:
+        consistency: :strong
+    locations:
+      database: locations_development
+      hosts:
+        - localhost:27017
+      options:
+        consistency: :strong
+  options:
+test:
+  sessions:
+    default:
+      database: people_test
+      hosts:
+        - localhost:27017
+      options:
+        consistency: :strong
+    devices:
+      database: devices_test
+      hosts:
+        - localhost:27017
+      options:
+        consistency: :strong
+    locations:
+      database: locations_test
+      hosts:
+        - localhost:27017
+      options:
+        consistency: :strong
+  options:
+production:
+  sessions:
+    default:
+      uri: <%= ENV['MONGOLAB_PEOPLE_URL'] %>
+    devices:
+      uri: <%= ENV['MONGOLAB_DEVICES_URL'] %>
+    locations:
+      uri: <%= ENV['MONGOLAB_LOCATIONS_URL'] %>
+  options:
