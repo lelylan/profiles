@@ -11,4 +11,3 @@ RSpec::Matchers.define :have_the_same_time_as do |expected|
     expected.to_i == actual.to_i
   end
 end
-
