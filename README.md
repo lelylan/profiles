@@ -1,6 +1,6 @@
 # Profile API
 
-Profile API for Lelylan authentication and authorization. [Learn more](http://dev.lelylan.com/rest/authentication/)
+Profile API for Lelylan authentication and authorization. 
 
 
 ## Requirements
@@ -12,13 +12,13 @@ Profile API is tested against MRI 1.9.3.
 
 Clone the repository.
 
-    git clone git@github.com:lelylan/people.git
+    git clone git@github.com:lelylan/profiles.git
 
 
 ## Resources
 
+* [Lelylan Profile API](http://dev.lelylan.com/developers#core-concepts-get-me)
 * [Lelylan API](http://dev.lelylan.com)
-* [Lelylan Profile API](http://dev.lelylan.com/rest/authentication/)
 
 
 ## Contributing
@@ -47,13 +47,13 @@ Follow [github](https://github.com/styleguide/) guidelines.
 
 ## Feedback
 
-Use the [issue tracker](http://github.com/lelylan/people/issues) for bugs.
-[Mail](mailto:touch@lelylan.com) or [Tweet](http://twitter.com/lelylan) us for any idea that can improve the project.
+Use the [issue tracker](http://github.com/lelylan/profiles/issues) for bugs or [stack overflow](http://stackoverflow.com/questions/tagged/lelylan).
+[Mail](mailto:dev@lelylan.com) or [Tweet](http://twitter.com/lelylan) us for any idea that can improve the project.
 
 
 ## Links
 
-* [GIT Repository](http://github.com/lelylan/people)
+* [GIT Repository](http://github.com/lelylan/profiles)
 * [Lelylan Dev Center](http://dev.lelylan.com)
 * [Lelylan Site](http://lelylan.com)
 
@@ -65,14 +65,14 @@ Use the [issue tracker](http://github.com/lelylan/people/issues) for bugs.
 
 ## Contributors
 
-Special thanks to the following people for submitting patches.
+Special thanks to [all people](https://github.com/lelylan/profiles/graphs/contributors) contributing to the project.
 
 
 ## Changelog
 
-See [CHANGELOG](people/blob/master/CHANGELOG.md)
+See [CHANGELOG](https://github.com/lelylan/profiles/profiles/blob/master/CHANGELOG.md)
 
 
-## Copyright
+## License
 
-Copyright (c) 2013 [Lelylan](http://lelylan.com). See [LICENSE](people/blob/master/LICENSE.md) for details.
+Apache Mesos is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
