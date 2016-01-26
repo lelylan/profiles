@@ -1,6 +1,6 @@
 # Profile API
 
-Profile API for Lelylan authentication and authorization. 
+Profile API to get user data.
 
 
 ## Requirements
