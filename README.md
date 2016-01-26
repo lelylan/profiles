@@ -18,7 +18,6 @@ Clone the repository.
 ## Resources
 
 * [Lelylan Profile API](http://dev.lelylan.com/developers#core-concepts-get-me)
-* [Lelylan API](http://dev.lelylan.com)
 
 
 ## Contributing
@@ -65,8 +64,8 @@ Use the [issue tracker](http://github.com/lelylan/profiles/issues) for bugs or [
 
 ## Contributors
 
-Special thanks to [all people](https://github.com/lelylan/profiles/graphs/contributors) helping to make the project real.
-
+Special thanks to all [contributors](https://github.com/lelylan/profiles/contributors)
+for submitting patches.
 
 ## Changelog
 
