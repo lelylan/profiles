@@ -70,7 +70,7 @@ Special thanks to [all people](https://github.com/lelylan/profiles/graphs/contri
 
 ## Changelog
 
-See [CHANGELOG](https://github.com/lelylan/profiles/profiles/blob/master/CHANGELOG.md)
+See [CHANGELOG](https://github.com/lelylan/profiles/blob/master/CHANGELOG.md)
 
 
 ## License
