@@ -47,7 +47,7 @@ Follow [github](https://github.com/styleguide/) guidelines.
 
 ## Feedback
 
-Use the [issue tracker](http://github.com/lelylan/profiles/issues) for bugs or [stack overflow](http://stackoverflow.com/questions/tagged/lelylan).
+Use the [issue tracker](http://github.com/lelylan/profiles/issues) for bugs or [stack overflow](http://stackoverflow.com/questions/tagged/lelylan) for questions.
 [Mail](mailto:dev@lelylan.com) or [Tweet](http://twitter.com/lelylan) us for any idea that can improve the project.
 
 
@@ -60,12 +60,12 @@ Use the [issue tracker](http://github.com/lelylan/profiles/issues) for bugs or [
 
 ## Authors
 
-[Andrea Reginato](http://twitter.com/andreareginato)
+[Andrea Reginato](https://www.linkedin.com/in/andreareginato)
 
 
 ## Contributors
 
-Special thanks to [all people](https://github.com/lelylan/profiles/graphs/contributors) contributing to the project.
+Special thanks to [all people](https://github.com/lelylan/profiles/graphs/contributors) helping to make the project real.
 
 
 ## Changelog
