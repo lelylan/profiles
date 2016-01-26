@@ -75,4 +75,4 @@ See [CHANGELOG](https://github.com/lelylan/profiles/blob/master/CHANGELOG.md)
 
 ## License
 
-Apache Mesos is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Lelylan is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
