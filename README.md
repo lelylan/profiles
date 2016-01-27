@@ -10,11 +10,12 @@ Profile API is tested against MRI 1.9.3.
 
 ## Installation
 
-* `git clone git@github.com:lelylan/profiles.git`
-* `cd profiles`
-* `gem install bundler`
-* `bundle install`
-* `foreman start`
+    $ git clone git@github.com:lelylan/profiles.git
+    $ cd profiles
+    $ gem install bundler
+    $ bundle install
+    $ foreman start
+
 
 ## Resources
 
@@ -23,8 +24,8 @@ Profile API is tested against MRI 1.9.3.
 
 ## Contributing
 
-Fork the repo on github and send a pull requests with topic branches. Do not forget to
-provide specs to your contribution.
+Fork the repo on github and send a pull requests with topic branches. 
+Do not forget to provide specs to your contribution.
 
 
 ### Running specs
@@ -67,6 +68,7 @@ Use the [issue tracker](http://github.com/lelylan/profiles/issues) for bugs or [
 
 Special thanks to all [contributors](https://github.com/lelylan/profiles/contributors)
 for submitting patches.
+
 
 ## Changelog
 
