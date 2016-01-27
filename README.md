@@ -11,9 +11,10 @@ Profile API is tested against MRI 1.9.3.
 ## Installation
 
 * `git clone git@github.com:lelylan/profiles.git`
-* `gem install bundler` (get the latest gem).
-* `bundle install` (install all dependencies).
-* `foreman start` (stat the service)
+* `cd profiles`
+* `gem install bundler`
+* `bundle install`
+* `foreman start`
 
 ## Resources
 
