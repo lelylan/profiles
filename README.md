@@ -1,6 +1,6 @@
 # Profile API
 
-Profile API to get user data.
+Profile information API.
 
 
 ## Requirements
@@ -10,16 +10,17 @@ Profile API is tested against MRI 1.9.3.
 
 ## Installation
 
-    $ git clone git@github.com:lelylan/profiles.git
-    $ cd profiles
-    $ gem install bundler
-    $ bundle install
-    $ foreman start
+        $ git clone git@github.com:lelylan/profiles.git && cd profiles
+        $ gem install bundler
+        $ bundle install 
+        $ foreman start
+
+When installing the service in production set [lelylan environment variables](https://github.com/lelylan/lelylan/blob/master/README.md#production).
 
 
 ## Resources
 
-* [Lelylan Profile API](http://dev.lelylan.com/developers#core-concepts-get-me)
+* [Lelylan Profile API](http://dev.lelylan.com/api#core-concepts-get-me)
 
 
 ## Contributing
@@ -30,10 +31,11 @@ Do not forget to provide specs to your contribution.
 
 ### Running specs
 
-* Fork and clone the repository.
-* Run `gem install bundler` to get the latest for the gemset.
-* Run `bundle install` for dependencies.
-* Run `bundle exec guard` and press enter to execute all specs.
+        $ gem install bundler
+        $ bundle install 
+        $ bundle exec guard
+
+Press enter to execute all specs.
 
 
 ## Spec guidelines
