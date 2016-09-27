@@ -15,6 +15,11 @@ Profile API is tested against MRI 1.9.3.
         $ bundle install 
         $ foreman start
 
+## Install with docker
+
+    $ docker build --tag=profiles .
+    $ docker run -d -it --name profiles profiles
+
 When installing the service in production set [lelylan environment variables](https://github.com/lelylan/lelylan/blob/master/README.md#production).
 
 
