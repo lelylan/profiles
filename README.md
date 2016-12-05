@@ -10,15 +10,30 @@ Profile API is tested against MRI 1.9.3.
 
 ## Installation
 
-        $ git clone git@github.com:lelylan/profiles.git && cd profiles
-        $ gem install bundler
-        $ bundle install 
-        $ foreman start
+```bash
+$ git clone git@github.com:lelylan/profiles.git && cd profiles
+$ gem install bundler
+$ bundle install
+$ foreman start
+```
 
 ## Install with docker
 
-    $ docker build --tag=profiles .
-    $ docker run -d -it --name profiles profiles
+#### Badges
+Docker image: [lelylanlab/profiles](https://hub.docker.com/r/lelylanlab/profiles/)
+
+[![](https://images.microbadger.com/badges/version/lelylanlab/profiles:latest.svg)](http://microbadger.com/images/lelylanlab/profiles:latest "Get your own version badge on microbadger.com")  [![](https://images.microbadger.com/badges/image/lelylanlab/profiles:latest.svg)](http://microbadger.com/images/lelylanlab/profiles:latest "Get your own image badge on microbadger.com")
+
+### Use docker hub image
+```bash
+$ docker run -d -it --name profiles lelylanlab/profiles
+```
+
+### Generate local image
+```bash
+$ docker build --tag=profiles .
+$ docker run -d -it --name profiles profiles
+```
 
 When installing the service in production set [lelylan environment variables](https://github.com/lelylan/lelylan/blob/master/README.md#production).
 
@@ -30,15 +45,17 @@ When installing the service in production set [lelylan environment variables](ht
 
 ## Contributing
 
-Fork the repo on github and send a pull requests with topic branches. 
+Fork the repo on github and send a pull requests with topic branches.
 Do not forget to provide specs to your contribution.
 
 
 ### Running specs
 
-        $ gem install bundler
-        $ bundle install 
-        $ bundle exec guard
+```bash
+$ gem install bundler
+$ bundle install
+$ bundle exec guard
+```
 
 Press enter to execute all specs.
 
