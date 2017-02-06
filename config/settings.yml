@@ -6,7 +6,6 @@ services:
   types: 'https://types.lelylan.com'
   people: 'https://people.lelylan.com'
   profile: 'https://profiles.lelylan.com'
-  locations: 'https://locations.lelylan.com'
 titles:
   '/users/new': Sign in
 scopes:
@@ -19,7 +18,5 @@ scopes:
     - histories:read
     - types
     - types:read
-    - locations
-    - locations:read
     - privates
     - user
